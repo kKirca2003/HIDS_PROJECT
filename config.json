@@ -1,0 +1,10 @@
+{
+    "log_file_to_monitor": "sample_log.txt",
+    "alert_rules": [
+        {
+            "rule_name": "Failed Login Attempt",
+            "keyword": "Failed password"
+        }
+    ],
+    "alerts_output_file": "alerts.log"
+}
