@@ -4,6 +4,14 @@
         {
             "rule_name": "Failed Login Attempt",
             "keyword": "Failed password"
+        },
+        {
+            "rule_name": "New User Creation",
+            "keyword": "new user"
+        },
+        {
+            "rule_name": "Accepted SSH Connection",
+            "keyword": "Accepted password"
         }
     ],
     "alerts_output_file": "alerts.log"

@@ -1,0 +1,2 @@
+Jun 27 20:30:20 server sshd[1235]: Failed password for root from 192.168.1.100 port 22 ssh2
+Jun 27 21:30:00 server sshd[9999]: Failed password for user evil from 1.2.3.4
